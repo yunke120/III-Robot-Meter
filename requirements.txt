@@ -1,0 +1,14 @@
+matplotlib==3.8.0
+numpy==1.22.4
+onnx==1.16.0
+onnxsim==0.4.36
+opencv_python==4.9.0.80
+Pillow==10.1.0
+Pillow==10.2.0
+pycocotools==2.0.7
+scipy==1.11.4
+thop==0.1.1.post2209072238
+torch==2.1.1
+torchsummary==1.5.1
+torchvision==0.16.1
+tqdm==4.65.0

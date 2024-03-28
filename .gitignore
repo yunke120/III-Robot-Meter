@@ -1,0 +1,11 @@
+logs/
+__pycache__/
+img_in/
+img_out/
+map_out/
+*.txt
+*.jpg
+*.xml
+*.png
+*.zip
+!requirements.txt
